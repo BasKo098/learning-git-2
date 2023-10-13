@@ -4,19 +4,19 @@ body {
     background-color: blue;
 }
 
-.poem{
+.poem {
     display:flex;
     padding: 20px 180px;
     max-width: 270px;
 }
 
-.autor{
+.autor {
     padding-top: 15px;
     font-style: italic;
     font-size: 18px;
 }
 
-.container p{
+.container p {
     line-height: 1.7;
     font-size: 18px;
 }
